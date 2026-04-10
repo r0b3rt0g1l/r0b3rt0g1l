@@ -6,7 +6,6 @@
 
 <br/>
 
-<p><sub>Mechatronics Engineering · AI & Automation</sub></p>
 
 <br/><br/>
 <br/><br/>
